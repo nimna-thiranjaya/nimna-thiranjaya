@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nimna Thiranjaya</h1>
-<h3 align="center">Programmer | Gammer | Traveler</h3>
+<h3 align="center">Programmer | Gamer | Traveler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20167028&label=Profile%20views&color=0e75b6&style=flat" alt="it20167028" /> </p>
 
 
 
-- 🔭 I’m currently studing on **SLIIT and university of Rajarata**
+- 🔭 I’m currently studing on **SLIIT and University Of Rajarata**
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IT20167028](https://github.com/IT20167028)
 
-- 💬 Ask me about **Java, C, C++, HTML, CSS**
+- 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **nimnathiranjaya523@gmail.com**
 
@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/nimna-thiranjaya-244919219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimna" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nimna.thiranjaya.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__n_i_m_n_a__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfgBWJzQFjOZEFzT88RGEeQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfgbwjzqfjozefzt88rgeeq" height="30" width="40" /></a>
