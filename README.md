@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nimnathiranjaya523@gmail.com**
 
-- ⚡ Fun fact **I spend almost 5 hours writing programs everyday**
+- ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
