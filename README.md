@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nimna thiranjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
-<a href="https://instagram.com/nimna thiranjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfgbwjzqfjozefzt88rgeeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfgbwjzqfjozefzt88rgeeq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nimna.thiranjaya.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__n_i_m_n_a__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfgBWJzQFjOZEFzT88RGEeQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfgbwjzqfjozefzt88rgeeq" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
