@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimna</h1>
+<h1 align="center">Hi 👋, I'm Nimna Thiranjaya</h1>
 <h3 align="center">Programmer | Gammer | Travelerl</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20167028&label=Profile%20views&color=0e75b6&style=flat" alt="it20167028" /> </p>
