@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IT20167028](https://github.com/IT20167028)
 
-- 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap, javaScript, NodeJs, ReactJs, java **
 
 - 📫 How to reach me **nimnathiranjaya523@gmail.com**
 
