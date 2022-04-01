@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimna Thiranjaya</h1>
 <h3 align="center">Programmer | Gamer | Traveler</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20167028&label=Profile%20views&color=0e75b6&style=flat" alt="it20167028" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimna-thiranjaya&label=Profile%20views&color=0e75b6&style=flat" alt="nimna-thiranjaya" /> </p>
 
 
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **on Youtube**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IT20167028](https://github.com/IT20167028)
+- 👨‍💻 All of my projects are available at [https://github.com/nimna-thiranjaya](https://github.com/nimna-thiranjaya)
 
 - 💬 Ask me about **Java, C, C++, HTML, CSS, Bootstrap, javaScript, NodeJs, ReactJs, java **
 
@@ -32,5 +32,5 @@
 <br><br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20167028&show_icons=true&locale=en&layout=compact" alt="it20167028" />&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=it20167028&show_icons=true&locale=en" alt="it20167028" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&show_icons=true&locale=en&layout=compact" alt="it20167028" />&nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&show_icons=true&locale=en" alt="nimna-thiranjaya8" />
