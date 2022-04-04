@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studing on **SLIIT and University Of Rajarata**
 
-- 👨‍💻 I’m currently working as an Internship Software Engineer at the Information and Communication Technology Agency of Sri Lanka (ICTA)
+- 👨‍💻 I’m currently working as an Internship Software Engineer at the Information and Communication Technology Agency of Sri Lanka.
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -35,4 +35,4 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&show_icons=true&locale=en&layout=compact" alt="it20167028" />&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&show_icons=true&locale=en" alt="nimna-thiranjaya8" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&show_icons=true&locale=en" alt="nimna-thiranjaya8" /> <br/>
