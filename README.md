@@ -88,7 +88,7 @@
 
 <br/>
 <p align="left">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="it20167028" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true" alt="nimna-thiranjaya8" />
+ <img width="40%"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="it20167028" />
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true" alt="nimna-thiranjaya8" />
 </p>
 <br>
