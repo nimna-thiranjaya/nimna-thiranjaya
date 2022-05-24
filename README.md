@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studing on **SLIIT and University Of Rajarata**
 
-- 👨‍💻 I’m currently working as an Internship Software Engineer at the Information and Communication Technology Agency of Sri Lanka.
+- 👨‍💻 I’m currently working as an Internship SE at the Information and Communication Technology Agency of Sri Lanka.
 
 - 🌱 I’m currently learning **MERN stack**
 
