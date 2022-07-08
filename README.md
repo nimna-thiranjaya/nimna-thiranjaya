@@ -80,13 +80,7 @@
 
 <br/> 
 
-<br/>
-<p align="center">
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=nimna-thiranjaya&bg_color=15040d&color=ffffff&line=33ff0a&point=149423&area=true&hide_border=true" alt="nimna-thiranjaya8" />
-</p>
-<br>
 
-<br/>
 <p align="center">
  <img width="40%"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="it20167028" />
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true" alt="nimna-thiranjaya8" />
