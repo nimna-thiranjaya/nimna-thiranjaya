@@ -78,7 +78,12 @@
 
 </td></tr></table>  
 
-<br/>
+<br>
+
+<a href="https://github.com/nimna-thiranjaya/github-readme-activity-graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nimna-thiranjaya&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
+  
+  <br>
 
 <h3 align="left">Most Used Languages :</h3>
 <!-- GitHub Readme languages Stats - https://github.com/nimna-thiranjaya/github-readme-streak-stats -->
