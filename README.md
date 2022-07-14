@@ -78,11 +78,17 @@
 
 </td></tr></table>  
 
-<br/> 
+<br/>
 
-
+<h3 align="left">Most Used Languages :</h3>
+<!-- GitHub Readme languages Stats - https://github.com/nimna-thiranjaya/github-readme-streak-stats -->
 <p align="center">
- <img width="40%"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="it20167028" />
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&theme=chartreuse-dark&show_icons=true" alt="nimna-thiranjaya8" />
+  <a href="https://github.com/nimna-thiranjaya/github-readme-streak-stats">
+    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
+  </a>
+  
+  <a href="https://github.com/nimna-thiranjaya/github-readme-cotribution-stats">
+    <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+
+  </a>
 </p>
-<br>
