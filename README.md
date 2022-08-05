@@ -1,6 +1,6 @@
+<img src="https://firebasestorage.googleapis.com/v0/b/researchprojectmanagemen-d4b3b.appspot.com/o/AdminDocuments%2Fddddddd.jpeg?alt=media&token=84573cc1-f419-4485-b512-5e6821507165"/>
 <h1 align="center">Hi 👋, I'm Nimna Thiranjaya</h1>
 <h3 align="center">Programmer | Gamer | Traveler</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimna-thiranjaya&label=Profile%20views&color=0e75b6&style=flat" alt="nimna-thiranjaya" /> </p>
 
 
