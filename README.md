@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working as an Internship SE at the Information and Communication Technology Agency of Sri Lanka.
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & Azure DevOps**
 
 - 👯 I’m looking to collaborate on **on Youtube**
 
