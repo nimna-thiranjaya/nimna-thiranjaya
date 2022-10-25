@@ -1,4 +1,6 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/researchprojectmanagemen-d4b3b.appspot.com/o/AdminDocuments%2Fddddddd.jpeg?alt=media&token=84573cc1-f419-4485-b512-5e6821507165"/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666723808/portfoliyo/api_oijqgy.svg" width="100%"
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimna-thiranjaya&label=Profile%20views&color=0e75b6&style=flat" alt="nimna-thiranjaya" /> </p>
 
@@ -110,4 +112,8 @@ hobbies: ["Gaming", "Cinema", "Travelling"],
     <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
 
   </a>
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666724185/portfoliyo/api_1_voevuh.svg" width="100%"
 </p>
