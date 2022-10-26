@@ -2,6 +2,12 @@
   <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666723808/portfoliyo/api_oijqgy.svg" width="100%"
 </p>
 
+<br>
+<p align="center">
+  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666757580/Github%20Bio/animation_500_l9p4ee3z_ccvzmu.gif" width="30%"
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimna-thiranjaya&label=Profile%20views&color=0e75b6&style=flat" alt="nimna-thiranjaya" /> </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
