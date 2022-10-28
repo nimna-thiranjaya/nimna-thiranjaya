@@ -33,7 +33,7 @@ fields_of_interests:
   ],
   
 currently_learning: ["Azure DevOps and React Native"],
-ask_me_about : ["Java", "C", "C++", "javaScript", "NodeJs", "ReactJs", "Laravel"]
+ask_me_about : ["Java", "C", "C++", "javaScript", "NodeJs", "ReactJs", "Laravel", "Laravel"]
 2022 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 hobbies: ["Gaming", "Cinema", "Travelling"],
 ```
