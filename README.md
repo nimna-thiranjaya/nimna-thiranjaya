@@ -102,8 +102,9 @@ hobbies: ["Gaming", "Cinema", "Travelling"],
 
 <br>
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/nimna-thiranjaya/github-readme-activity-graph">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nimna-thiranjaya&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+
   
   <br>
 
