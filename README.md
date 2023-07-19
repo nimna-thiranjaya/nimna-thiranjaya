@@ -24,15 +24,15 @@ education:
   ],
 
 current_job: "Trainer Software Engineer",
-company: "ICTA of Sri Lanka"
+company: "IntaHub Pvt. Ltd. "
 
 fields_of_interests:
   [
-    "Web Development",
+    "Backend Development",
     "DevOps",
   ],
   
-currently_learning: ["python", "Django", "flask"],
+currently_learning: ["python", "angular", "flask"],
 ask_me_about : ["Java", "C", "C++", "javaScript", "NodeJs", "ReactJs", "Laravel", "Laravel"]
 2022 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 hobbies: ["Gaming", "Cinema", "Travelling"],
