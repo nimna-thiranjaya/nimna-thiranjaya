@@ -32,8 +32,8 @@ fields_of_interests:
     "DevOps",
   ],
   
-currently_learning: ["python", "angular", "flask"],
-ask_me_about : ["Java", "C", "C++", "javaScript", "NodeJs", "ReactJs", "Laravel", "Laravel"]
+currently_learning: ["python", "flask", "machine_learning"],
+ask_me_about : ["Java", "Spring boot" ,"TypeScript", "javaScript", "NodeJs", "ReactJs", "Angular","Laravel", "Containerization", "Linux"]
 2022 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 hobbies: ["Gaming", "Cinema", "Travelling"],
 ```
