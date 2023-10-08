@@ -39,7 +39,9 @@ current_job: [
 fields_of_interests:
   [
     "Backend Development",
+    "Frontend Development",
     "DevOps",
+    "ML"
   ],
   
 currently_learning: ["python", "flask", "machine_learning"],
