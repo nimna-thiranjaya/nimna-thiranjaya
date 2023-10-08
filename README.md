@@ -23,8 +23,18 @@ education:
     "GCE Ordinary Level",
   ],
 
-current_job: "Trainer Software Engineer",
-company: "IntaHub Pvt. Ltd. "
+current_job: [
+  {
+    posistion : "Trainer Software Engineer",
+    company: "IntaHub Pvt. Ltd."
+    companyUrl : "https://intahub.com/"
+  },
+  {
+    posistion : "Co Founder",
+    company: "CyberTronix Software Solution"
+    companyUrl : "https://cybertronix.netlify.app/"
+  }
+]
 
 fields_of_interests:
   [
