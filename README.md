@@ -34,7 +34,15 @@ current_job: [
     company: "CyberTronix Software Solution"
     companyUrl : "https://cybertronix.netlify.app/"
   }
-]
+],
+
+publications: [
+  {
+    title : "Computerized Prison Monitoring Application Based on Knowledge Engineering",
+    publisher : "International Research Journal of Innovations in Engineering and Technology-IRJIET"
+    article_link : "https://irjiet.com/Volume-7/Issue-10-October-2023/Computerized-Prison-Monitoring-Application-Based-on-Knowledge-Engineering/1836"
+  }
+],
 
 fields_of_interests:
   [
