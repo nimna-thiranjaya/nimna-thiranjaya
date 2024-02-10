@@ -123,10 +123,10 @@ hobbies: ["Gaming", "Cinema", "Travelling"],
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <!-- GitHub Readme languages Stats - https://github.com/nimna-thiranjaya/github-readme-streak-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   
   <a href="https://github.com/nimna-thiranjaya/github-readme-cotribution-stats">
-    <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+    <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" height="180" />
 
   </a>
 </p>
