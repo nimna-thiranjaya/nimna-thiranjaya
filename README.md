@@ -25,7 +25,7 @@ education:
 
 current_job: [
   {
-    posistion : "Trainer Software Engineer",
+    posistion : "Associate Software Engineer",
     company: "IntaHub Pvt. Ltd."
     companyUrl : "https://intahub.com/"
   },
