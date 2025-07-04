@@ -25,9 +25,9 @@ education:
 
 current_job: [
   {
-    posistion : "Associate Software Engineer",
-    company: "IntaHub Pvt. Ltd."
-    companyUrl : "https://intahub.com/"
+    posistion : "Software Engineer (Backend)",
+    company: "Arimac"
+    companyUrl : "https://arimac.digital/"
   },
   {
     posistion : "Co Founder",
